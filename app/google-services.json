@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "97671905889",
+    "firebase_url": "https://project-2914655471298504341.firebaseio.com",
+    "project_id": "project-2914655471298504341",
+    "storage_bucket": "project-2914655471298504341.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97671905889:android:54f23dbfe9c271f3",
+        "android_client_info": {
+          "package_name": "com.deepakbaliga.krishnaconchem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97671905889-sn8db3lri2r3romssnuqqm5dvh6h1vot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4MFAcGNXxlxQuGP9h15zVMzqpCuDadxY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
